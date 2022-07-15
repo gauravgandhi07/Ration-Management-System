@@ -1,0 +1,27 @@
+body {
+    background-image: url("https://www.compassion.com/Images/hungry-children-hero-2020_159459_1280x554.jpg");
+    background-size: cover;
+    font-family: system-ui;
+}
+
+.form-container {
+    margin-top: 200px;
+    margin-left: 100px;
+}
+
+label {
+    color: #fff;
+    padding: 8px;
+}
+
+.d-flex {
+    background: #000;
+    width: 300px;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px 0px #fff;
+}
+
+.btn-container {
+    text-align: center;
+}
